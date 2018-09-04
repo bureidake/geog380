@@ -8,7 +8,7 @@ Introduction to Digital Cartography - Notes and some py files to test.
 - "Big brother is watching you", that means me, your professor, friends, family, and etc. can see this repository.
 - If you get caught for plagerising and I know you took mines, you will be featured in a text file called "name of shame.txt".
 - Inquiry about this repository:<br/><br/>
-                                       contact: jimysom@yahoo.com <br/>
+                                       Contact: jimysom@yahoo.com <br/>
                                        Subject: Github project: geog380 <br/>
                                        Message: [Your inquiry]<br/>
 
