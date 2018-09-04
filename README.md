@@ -8,7 +8,7 @@ Introduction to Digital Cartography - Notes and some py files to test.
 - "Big brother is watching you", that means me, your professor, friends, family, and etc. can see this repository.
 - If you get caught for plagerising and I know you took mines, you will be featured in a text file called "file of shame.txt".
 
-License and Copyright
+#License and Copyright
 <hr>
                         
                           Copyright 2018, Johnjimy Som 
