@@ -1,0 +1,19 @@
+Solutions and links for the following:
+Worksheet 1: 
+
+- To calculate the mean center it is similar calculate mean except we are calculating two times one for the (x) coordinates and one for the (y).
+- Calculate all of the (x) divided by the # of (x)s for example to find the mean of (1,2,3,4,5) => it is "(1+2+3+4+5) / 5" because 
+ there are 5 elements and that's how you calculate the mean. 
+- Apply for the (x),(y) therefore, the formula for mean center: 
+                        
+                        mean center(mean(x),mean(y)) 
+
+- For number 2 of worksheet 1:
+- Standard distance seems to be referencing similar to standard deviation: https://www.mathsisfun.com/data/standard-deviation-formulas.html
+
+---------------
+
+Worksheet 2:
+
+-
+-
