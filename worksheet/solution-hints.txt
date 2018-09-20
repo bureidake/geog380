@@ -10,6 +10,10 @@ Worksheet 1:
 
 - For number 2 of worksheet 1:
 - Standard distance seems to be referencing similar to standard deviation: https://www.mathsisfun.com/data/standard-deviation-formulas.html
+- Calculator just know how to find:
+https://www.calculator.net/standard-deviation-calculator.html?numberinputs=2%2C-4%2C1%2C8%2C4&x=40&y=19
+https://www.calculator.net/mean-median-mode-range-calculator.html?numberinputs=2%2C8%2C4%2C-4%2C1&x=33&y=27
+https://webspace.ship.edu/pgmarr/Geo441/Examples/Mean%20and%20Weighted%20Mean%20Centers.pdf
 
 ---------------
 
