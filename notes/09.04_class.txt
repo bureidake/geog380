@@ -1,0 +1,70 @@
+Numeric summaries
+Understand mode, mean, median. z scores.
+
+---------
+Two types stats:
+-Discriptive
+..reducing lots of data
+.. e.g. shorelines, generalization (data generalization), simplification
+
+-Inferential
+.. conclusions can be drawn with limited information
+.. samples of population
+.. e.g. sampling, geostatistics
+
+---------
+Measures of central tendency
+- more examples on pptx chapter 3.
+...
+..
+
+
+---------
+Outliers ***** (subject for presentation)
+- extreme value a long way from the mean and median
+- distrubution
+..data spread, variation, dispersion
+...ranges, quantiles, inter-quantile ranges (IQR)
+
+---------
+Ranges examples
+-more examples on pptx. chapter 3
+
+
+--------
+Stem-and-leaf plot:graphicall summary
+-Visual memory, without too much graphical efforts
+-rough idea of the whole data
+
+0 | 4389823426
+1 | 47589345928345
+2 | 343326346234623462346
+3 | 23235
+
+e.g. 3 | 23235 equals 32,33,32,33,35
+
+-Stem an leaf plot histogram. figure examples
+
+-------
+Histogram
+-recap
+-measure the distance/height of the graphs
+..divide the range of the data to series of equal intervals
+..
+..
+breakpoints eg. 0 c degrees, 50%, pH7
+-no overlaps ranges are not unbalanced.
+
+#ALWAYS LABEL EVERYTHING IN A HISTOGRAM!
+
+--------
+Variance and Standard Deviation
+
+-Variance:square the numbers
+
+
+Standard Deviation
+-
+
+
+-------
