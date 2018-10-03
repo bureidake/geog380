@@ -1,0 +1,37 @@
+Review of Test 1,
+
+Map design I [Ch. 11]         Map design II  [Ch. 12]
+Map presentation:  Khoa Phan
+Map presentation:
+
+09_Map_Design_1 pptx
+//////////////////////////////////////////////////////////////////////////////////////
+
+Borders
+A border may help to draw together the elements on the map
+Frame line – serves as a picture frame surrounding everything in the map
+Neat line – sometimes used to outline the actual map content within the entire map
+Borders should be subtleand not distract
+Thin blackor grey line often good choice
+
+
+Alignment – Sight lines
+Sight lines are invisible horizontal and vertical lines
+Reducing the number of sight lines, reduces complexity
+
+
+General layout – eye movement
+In generalFrom top to bottom
+From left to right
+Position map elements accordingly to tell your “story” efficiently
+
+
+General layout – visual center
+The visual center is located slightly above the actual center
+Centering implies "importance"
+
+
+Group Activity
+Form a group with 2~3 of your neighbors
+Find one good example and one bad example for visual center and eye movement in mapping
+Share your findings with other group
