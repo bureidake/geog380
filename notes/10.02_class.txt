@@ -35,3 +35,66 @@ Group Activity
 Form a group with 2~3 of your neighbors
 Find one good example and one bad example for visual center and eye movement in mapping
 Share your findings with other group
+
+
+https://www.google.com/search?q=maps+examples&rlz=1C1GCEA_enUS812US812&tbm=isch&source=iu&ictx=1&fir=5tuLst_-7b9eKM%253A%252Cu8wfSTni6ZR18M%252C_&usg=AI4_-kT8P61I5Qe3eK7jwGpOAzaQk5H6Dg&sa=X&ved=2ahUKEwiY54GxmundAhWPJnwKHQDYCmIQ9QEwAXoECAIQBg#imgdii=WmR5qtVwX72oAM:&imgrc=3FlbLlIRMXvlHM:
+
+Exercise
+Map Design
+09_map design exercise.pdf
+
+
+Summary
+Map elements combine to make a useful map
+Require appropriate selection and use of Title, Legend, Orientation, Explanatory text, Scale, Source, Inset/Location map, and Borders
+Map layout
+Optical center, eye movement, sight lines, and balance
+09_data.zip
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Map Design II 
+10_Map_Design_2
+
+
+utline
+Design evaluation
+Gestalt principles in map design
+Map Composition
+
+
+Map Aesthetics
+c A R T o g r a p h y
+“Maps should have harmony within themselves.  An ugly map,   with crude colors, careless line work, and disagreeable, poorly arranged lettering may be intrinsically as accurate as a beautiful map, but it is less likely to inspire confidence.”   John  K. Wright
+
+Bad maps vs. Incorrect maps
+Good design = Harmony+ Composition+ Clarity
+
+Note*** it is better to give the audience bad map than a incorrectmap, because incorrect map can get you in trouble
+
+https://stackoverflow.com/questions/18828310/can-i-add-an-image-path-from-a-txt-file-in-a-webpage-using-php
+//unrelated
+
+talt Principles for visual perception
+The meaning of graphic symbols as “unified whole” ,  or a visual group
+See figure pp. 08 @ 10_Map_Design_2 
+
+Play lemmings gba
+
+Examples of Gestalt map activity
+
+ap Composition
+A thematic map can be considered to be a composition of   levels (hierarchy between layers)
+Each level contains one or more design elements
+The arrangement of elements at each level is called planar organization
+The arrangement between levels is called hierarchical organization,  or visual hierarchy (in the order of importance
+
+isual Hierarchy
+The intellectual plan for the map andeventually a graphicsolution that satisfies the plan
+A guidelinetoorganize map elements in the hierarchy
+
+Figure-Ground Organization
+A way of organizing perception into a hierarchy of figures and grounds
+Figures: things that are more important and dominating
+Ground: things that are less important
