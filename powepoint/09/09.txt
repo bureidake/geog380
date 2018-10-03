@@ -1,0 +1,11 @@
+This folder includes:
+
+09_Map_Design_1
+PDF document
+
+09_map design exercise
+PDF document
+
+09_data
+Zip Compressed File
+ 
