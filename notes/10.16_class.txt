@@ -1,0 +1,21 @@
+Notes Standardization
+
+Size and Shape of Areas
+
+MAUP (Modifiable Areal Unit Problem)
+People tend to look at the bigger units or size on the page.
+
+
+
+Color Scheme and Classification
+-Sequential color scheme.
+-Logically arrange from high to low.
+
+One color hue and six classes on Sequential Scheme figure. example
+
+Naming legends
+
+
+Dot density best example
+https://www.e-education.psu.edu/geog486/node/1870
+
