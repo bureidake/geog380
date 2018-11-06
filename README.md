@@ -14,7 +14,7 @@ Introduction to Digital Cartography - Notes and some py files to test.
 
 ## License and Copyright
                         
-                          Copyright 2018, Johnjimy Som 
+                                            Copyright 2018, Johnjimy Som 
             
-            Licensed under the Apache License, Version 2.0 (the "License");
+                           Licensed under the Apache License, Version 2.0 (the "License");
  
