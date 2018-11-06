@@ -13,7 +13,6 @@ Introduction to Digital Cartography - Notes and some py files to test.
                                        Message: [Your inquiry]<br/>
 
 ## License and Copyright
-<hr>
                         
                           Copyright 2018, Johnjimy Som 
             
