@@ -1,6 +1,6 @@
-# geog380 -01
+# geog380
 Introduction to Digital Cartography - Notes and some py files to test.<br/>
-Fall 2018 <br/>
+GEOG 380 - 01, Fall 2018 <br/>
 Instructor: Hyowon Ban, Ph.D<br/>
 
 - California State University, Long Beach - Geography
